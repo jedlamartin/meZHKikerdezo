@@ -1,0 +1,2 @@
+# meZHKikerdezo
+Mikroelektronika ZH Kikérdező
