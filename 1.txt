@@ -1,0 +1,22 @@
+A félvezető szeleteket %gyémánttárcsás vágóeszköz% -val/-vel darabolják fel.
+Modern gyártástechnológiák jellemző MFS értéke (2020) %7% nm.
+Az integrált áramkörök felületén gyakran különböző színű részeket lehet megkülönböztetni (főleg régebbi IC-k esetén, pl.: ua741). Ez a különböző vastagságú %oxid% réteggel fedett területeken, a(z) interferencia jelenségnek köszönhető.
+Az MFS megmutatja, hogy mekkora a legkisebb megvalósítható %alakzat% mérete.
+A fotolitográfia során a helyiség megvilágítása %sárga% színű fénnyel történik, mert a fotolakk/fotoreziszt érzékeny a(z) %UV% fényre.
+Jelenleg a modern félvezető gyártástechnológiában alkalmazott szelet átmérő %300mm%.
+Az egy szeleten lévő chipek a gyártási folyamat során %egyszerre% készülnek.
+Félvezető eszközök gyártása során több tucat maszkot alkalmaznak. Az egyik legnagyobb problémát a(z) %maszkillesztés% jelenti.
+Deep-UV fotolitográfia esetén a fotomaszkokat %üveg% hordozón alakítják ki %króm% mintázattal.
+A %System-on-Package (SoP)% eszközökben az ún. köztes hordozó (interposer) is az áramkör szerves részét képezi.
+Heterogén integráció során több, különböző technológián, akár különböző félvezető alapanyagból gyártott chipeket, ún. %chipleteket% helyeznek el egy aktív vagy passzív %szilícium% anyagú köztes hordozón.
+Egy félvezető szelet gyártása során akár %70% darab maszkra is szükség lehet.
+A félvezető chip felületén a különböző vastagságú oxid réteggel fedett területek eltérő színét az %interferencia% jelenség okozza.
+Az integrált áramkör gyártásához szükséges maszkok tervrajzát %Layout% -nak nevezzük.
+Chiplet alapú 3D heterogén integráció során a cél a %yield% növelése és a különböző technológiával megvalósított eszközök szoros integrációja.
+A %System-in-Package (SiP)% eszközökben jellemző az ún. stacked-die struktúra kialakítása.
+%Nedves oxidáció% gyártástechnológia eljárással vastagabb, de szennyeződéseket tartalmazó oxid réteg hozható létre, főleg elektromos szigetelés és maszkolás céljából.
+Az áramköri hordozók FR4 vagy FR5 alapanyaga %üvegszövet (woven glass)% erősítésű epoxy műgyanta laminátum.
+A félvezető felületén látható elszíneződést a %szilícium% -ról/ről és az %oxid réteg% -ról/ről visszaverődő fényhullám interferenciája okozza.
+Modern félvezető technológiában a planár tranzisztor kialakítását felváltotta a %FinFET% és a %Gate-All-Around (GAA)% 3D tranzisztor konstrukció.
+Az integrált áramkörök a specifikációban előírt funkciót végrehajtó része a %Core%.
+A külvilággal való kapcsolat kialakításában %pad% áramkörök játszanak szerepet, amik lényegében egy kellően nagy (100 μm x 100 μm) %fém% felületek.

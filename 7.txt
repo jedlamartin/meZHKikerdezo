@@ -1,0 +1,26 @@
+FET eszközök lineáris (trióda) tartományban %feszültségvezérelt ellenállás%-ként viselkednek.
+Az Elektronikus Eszközök Tanszéke félvezető laboratóriumában %p-MOS% technológia áll rendelkezésre.
+JFET eszközök esetén a %telítéses% működési tartományban az ID áram nem változik a %UDS% feszültség változásával.
+FET eszközöket áramgenerátorok kialakítása esetén a(z) %telítéses% üzemmódban használjuk, mert ekkor nagy a kimenő impedancia értéke.
+JFET eszközökben a PN átmenetekre kapcsolt %záró irányú% feszültséggel változtatható a kiürített réteg %szélessége% így a csatorna effektív %vastagság% -e/-a.
+A JFET tranzisztor karakterisztika egyenlete %négyzetes% összefüggést mutat.
+Térvezérlésű tranzisztorok vezérlő teljesítménye közel %0% W.
+JFET eszközök transzkonduktancia értéke %négyzetgyökösen% változik a UGS feszültség függvényében.
+Követő (puffer) erősítőket tipikusan %földelt drain% alapkapcsolással szoktak megvalósítani.
+A kiürítéses MOS-FET eszközök eszközök %unipoláris% és %normally-on% működésűek.
+AMS 0.35 μm CMOS technológián – amin a laboratóriumi gyakorlatok során is dolgoztunk – kb. %13% maszk kell a gyártáshoz.
+A JFET és a kiürítéses MOS-FET eszközök %normally-on% működésűek.
+JFET eszközöknél (a MOS-FET eszközöktől eltérően) nem jellemző a %villódzási-zaj%.
+JFET eszközöknek alacsonyabb a(z) %transzkonduktancia% értéke, mint a bipoláris tranzisztoroknak.
+JFET eszközök esetén a(z) %bemeneti impedancia% sokkal nagyobb, mint a bipoláris tranzisztoroknál.
+JFET eszközöknél a maximális ID áramot (UGS=0 mellett) %Idss% jelöljük és %telítési áram% -nak nevezzük.
+JFET eszközöknél a maximális Id áramot (UGS = 0 mellett) I0 jelöljük és áramállandónak nevezzük.
+MOS-FET eszközök esetén a fém gate-s struktúrát a %poli-Si% gate anyagú struktúra váltotta fel, mert így gyártás során megvalósulhat az %önillesztés% és kisebb lehet a %küszöbfeszültség%.
+JFET eszközöknél az U0 elzáródási feszültségérték a csatorna %adalékoltság%-tól és a csatorna %geometriai vastagság%-tól függ.
+JFET eszközöknek alacsonyabb a %kimeneti impedancia% értéke, mint a bipoláris tranzisztoroknak.
+A növekményes MOS-FET eszközök %unipoláris% eszközök és %normally-off% működésűek.
+JFET eszközök működése során feltétlen el kell kerülni a %letörési% “működési tartományt”.
+JFET eszközök unipoláris eszközök, ami azt jelenti, hogy a %többségi töltéshordozók% vesznek részt a vezetésben.
+A földelt source-ú alapkapcsolás esetén a feszültségerősítés növelhető, ha növeljük a %transzkonduktancia% vagy a %terhelő ellenállás% értékét.
+A hőmérséklet növekedésével a MOS tranzisztor küszöbfeszültsége %csökken%.
+A transzkonduktancia mértékegysége: %Siemens%.

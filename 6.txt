@@ -1,0 +1,18 @@
+Injektálási hatásfok értéke egyhez közeli és nagyban függ az emitter és a bázis %adalékoltság% -nak/-nek arányától.
+Bipoláris tranzisztorok esetén az egyenáramú áramerősítési tényező értéke közel %1%.
+Inverz működés esetén az áramerősítési tényező alacsony értékéért az %inhomogén adalékolás%, valamint a CB átmenettől %diffúziós hossz% -nál/-nél távolabb található EB átmenet a felelős.
+A bipoláris tranzisztor működés feltétele, hogy a %középső% réteg sokkal %vékonyabb% legyen, mint a kisebbségi töltéshordozók %diffúziós hosszúsága%.
+A bipoláris tranzisztorok háromelemes fizikai helyettesítőképei %kisjelű, lineáris% modellek, amik az %rbb’ soros ellenállás% okozta parazita hatást is figyelembe veszik.
+Inhomogén bázisadalékolású bipoláris tranzisztor esetén a fő cél a %diffúziós kapacitás% csökkentése.
+A földelt bázisú alapkapcsolás, normál aktív üzemmódú működése során a BE átmenet %nyitó%, a CB átmenet %záró% irányban van előfeszítve.
+A bipoláris tranzisztor működésének feltétele, hogy az egyik %szélső% réteg nagyságrendekkel %jobban adalékolt% legyen, mint a %középső% réteg.
+Inhomogén bázisadalékolású bipoláris tranzisztoroknál a beépített tér nagysága körülbelül %100% mV nagyságrendű.
+Inhomogén bázisadalékolású bipoláris tranzisztor esetén a kisebbségi töltéshordozó eloszlás a bázisban %konstans%, mivel %állandó térerősség% mellett, minden keresztmetszeten állandó áram folyik.
+Az Ebers-Moll egyenletek %nagyjelű nem lineáris működést% reprezentáló modell, amely %minden üzemmódban% helyesen írja le a bipoláris tranzisztor működését!
+Az inverziós tartományban a bipoláris tranzisztor áramerősítési tényezője maximum %0,1% értéket érheti el.
+Széles bázisú PN átmenet esetén a diffúziós töltések mennyisége a(z) %diffúziós áram% -tól és a kisebbségi töltéshordozók %élattartam% -tól függ.
+Homogén bázisadalékolású bipoláris tranzisztor esetén a kisebbségi töltéshordozó eloszlás %lineáris% , mivel a %gradiens% minden pontban állandó kell, hogy legyen.
+Transzporthatásfok értéke a bázis %szélességétől% és a %diffúziós hossz% hányadosának négyzetétől függ.
+A kollektorköri ellenállás csökkentése céljából az integrált áramköri bipoláris tranzisztor struktúrák esetén %rejtett réteg% kialakítását alkalmazzák.
+Közepes teljesítményű bipoláris tranzisztor esetén az emitter ún. %fésűs/meander% kialakítású.
+Inhomogén bázisadalékolású bipoláris tranzisztor esetén a kisebbségi effektív töltéshordozókat főleg a %beépített térerősség% fogja mozgatni a lezárt CB átmenet irányába.

@@ -1,0 +1,27 @@
+PN átmenet esetén a záró irányú áram nagyságát a töltéshordozó %generáció% sebessége határozza meg.
+A modellparamétereket %katalógus fájl% -ból/-ből tudjuk meghatározni.
+A modellegyenletek a %szimulációs program kódjába% vannak beépítve.
+PN átmenetnél a letörési feszültség a gyengébben adalékolt oldal %adalékoltság% -tól/-től függ.
+A PN átmenet tértöltési kapacitása a %záró tartomány% -ban/-ben domináns.
+Kényszerített, nyitóirányú áram mellett a PN átmenet nyitófeszültsége nagyon jó %hőmérséklet-érzékelő%.
+Az ütközéses ionizáció jelenség a %lavina% letörésre jellemző.
+Nyitóirányú előfeszítés hatására a PN átmeneten %csökken% a potenciálgát magassága, %csökken% a térerősség a tértöltésrétegben, így a %diffúziós áram% kerül túlsúlyba.
+Az ütközéses ionizáció során a térerősség által felgyorsított %töltéshordozók% a kristályrács atomokkal ütközve a vegyértéksávból további %elektronokat% szakítanak ki.
+A Zener letörés az ún. %alagúthatás% fizikai jelenségen alapul.
+Nyitóirányú előfeszítés esetén mindkét oldal %többségi töltéshordozói% injektálódnak a másik oldal felé.
+A PN átmenet diffúziós kapacitása a %nyitó tartomány% -ban/-ben jellemző.
+A diódára kapcsolt előfeszítés függvényében a %potenciálgát% magassága változik.
+Záróirányú előfeszítés hatására a PN átmeneten %növekszik% a potenciálgát magassága, növekszik a térerősség a tértöltésrétegben, így a %sodródási áram% kerül túlsúlyba.
+A PN átmenet %gyengébben adalékolt oldalának% az adalékolás növelésével, %csökken% a letöréshez tartozó UL feszültség érték.
+Záróirányú előfeszítés esetén mindkét oldal %kisebbségi töltéshordozói% -nak/-nek sodródása jellemző a másik oldal felé.
+PN átmenet esetén a generáció a %kiürített réteg% -ban/-ben jelentősebb, mint normál p vagy n adalékolású rétegben!
+PN átmenet esetén a generációs áram tipikusan %záró irányú% előfeszítés esetén jellemző.
+A záróirányú feléledési jelenség miatt, %nyitó tartományból a záró tartományba% történő gyors átkapcsolás esetén a dióda még véges ideig vezet, köszönhetően a %diffúziós kapacitásnak%.
+Záróirányú előfeszítés esetén a PN átmenet %nyelőként% viselkedik kisebbségi töltéshordozókra.
+Diódák soros ellenállásának a csökkentése érdekében %epitaxiális szerkezet% -t alkalmazunk.
+!!! PN átmenet nyitóirányú előfeszítése esetén a p oldalra átjutott elektronokat - a p oldalon - a %diffúziós áram%? mozgatja a kontaktus felé.
+A diffúziós kapacitás káros, lassítja a dióda működését. %Keskeny bázisú% dióda kialakítással és a kisebbségi töltéshordozó élettartam %csökkentésével% lehet csökkenteni.
+A Shockley-Read-Hall (SRH) rekombináció esetén a vegyértéksáv és a vezetési sáv között “áthaladó” elektron a %tiltott sávban% található lokalizált állapotokkal (ezek az ún. %mély nívók%) kerül kölcsönhatásba.
+A rekombinációs áram a PN átmenet %nyitó irányú% működésekor fellépő %tipikusan kis áramoknál% jellemző jelenség.
+I0 a %kisebbségi% töltéshordozó sűrűségével arányos.
+!!! Diódára kapcsolt nyitóirányú előfeszítés esetén a p oldalon, az átmenet közelében %elektronok?% halmozódnak fel.

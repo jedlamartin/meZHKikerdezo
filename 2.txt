@@ -1,0 +1,24 @@
+Az intel %Tick-Tock% stratégiáját felváltotta a process-architecture-optimization modell.
+Az órajelfrekvencia folyamatos növekedése %leállt%, mivel a %disszipáció% korlátozó tényezővé vált.
+Az első híres személyi számítógépekben elérhető processzorok (pl.: 4004, 8080) %nMOS% technológián készült.
+A félvezető gyártósorokon kialakított tiszta térben %fentről-lefelé% áramló %lamináris% áramlási jellegű légáram kerül kialakításra.
+Első germánium alapú %Bipoláris tranzisztor%-t Bardeen, Schockley és Brattain alkotta meg 1947-ben.
+Moore 1965-ben kiadott és még mindig fennálló jóslata szerint az egy lapkára integrálható %tranzisztorok% száma %18% havonta megduplázódik.
+A Turbo Boost technológia lehetőséget biztosít, hogy bizonyos esetekben egy kiválasztott mag (core) magasabb frekvencián üzemelhessen, amíg el nem ér egy előre definiált maximális %hőmérséklet% értéket.
+Számos technológiai lépésnél (pl. diffúzió, oxidáció) a %félvezető szeleteket% csoportosan ún. partiban kezelik.
+A %fab% a félvezetőgyártással foglalkozó üzemeket jelent.
+A félvezető gyártástechnológia fotolitográfia műveletét egy speciális térben az ún. %tisztatér% -ben végzik.
+A szeleteket számos technológiai lépésnél (pl.: diffúzió, oxidáció) csoportosan kezelik, az így kialakított csoport szakterminológiai elnevezése %parti%.
+Frank Wanlass 1963-ban alkotta meg az első %CMOS% logikai kapcsolást.
+A megfelelő %hűtés% kérdése egyre fontosabbá válik a 3D rendszer konstrukciók esetén, növekvő disszipáció sűrűség mellett.
+Frank Wanlass ismerte fel a MOS-FET eszközök magas nyitófeszültségét okozó fő szennyező anyagot, a %nátrium%.
+Az órajelfrekvencia folyamatos növelése helyett, a számítási teljesítmény további növelését a %párhuzamosítás% biztosítja.
+A legnagyobb félvezető gyártócégek havonta nagyságrendileg több millió %wafer% -t munkálnak meg.
+Egy modern rendszerchip eszköz maximális disszipáció sűrűsége kb. %130% W/cm nagyságú.
+A modern rendszerchip eszközök (pl.: Ryzen 7, Core i7 processzorok) lapka mérete néhány %cm2% nagyságú.
+Az egyelőre megoldatlan, a további fejlődést gátló problémákat a roadmap-ekben egységesen %The Red Brick Wall% -nak nevezik.
+Első %monolitikus IC% -t Jack Kilby alkotta 1959-ben.
+A mikroelektronika fejlődési trendjeit, jóslatait tartalmazó összefoglalót %roadmap% -nek nevezzük.
+A megfelelő %hűtés% kérdése egyre fontosabbá válik a 3D rendszer konstrukciók esetén, növekvő disszipáció sűrűség mellett.
+Első %FET% szabadalmat Lillienfield nyújtotta be 1925-ben.
+A mikroelektronika fejlődési trendjeit, jóslatait tartalmazó összefoglalót %Moore-törvény%-nek nevezzük.

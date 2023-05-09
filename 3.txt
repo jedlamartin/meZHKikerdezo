@@ -1,0 +1,35 @@
+Vegyértéksávban lévő elektronok nem képesek %mozgás% -ra.
+Parabolikus sávszélközelítés esetén a töltéshordozók %effektív tömeg% -vel számolunk.
+Félvezetők sávszerkezete az %impulzus% függvényében ábrázolja az elektronok %kinetikus energia% -át.
+A diffúziós hossz a %diffúziós állandótól% és a kisebbségi töltéshordozók %élettartamától% függ.
+Az egyedülálló atom energiaszintjei a kristályokban szinte %sávok% -ká szélesednek.
+Az intrinsic félvezetőkben a %Fermi-szint% a sávközépnél található.
+Töltéshordozók mozgékonysága szilícium félvezető esetén növekvő adalékolással %csökken%.
+A töltéshordozó koncentrációk szorzata nem függ az %adalékolás% -tól/-től.
+Kémiai kötések kialakításába a %vegyértéksáv% elektronjai vesznek részt.
+A diffúziós hossz megmutatja, hogy milyen %átlagos mélység% -ig hatolnak be a %kisebbségi% töltéshordozók, mielőtt rekombinálódnak.
+Indirekt sávú félvezető esetén rekombináció és generáció esetén az %impulzus- és energiamegmaradás% törvényének teljesülnie kell.
+Instrinsic félvezetőben az elektronok koncentrációja a %hőmérséklettől% valamint a %vezetési sáv alja% és a %intrinsic Fermi-szint% távolságától függ.
+Direkt rekombináció %fényemisszió% -val/-vel jár(hat).
+Donor adalékolású félvezető esetén a többlet elektron úgy perturbálja a sáv diagramot, hogy létrejön egy plusz %energia nívó%, ami a %vezetési% sáv %aljához% van közel.
+Akceptor adalékolású félvezető esetén létrejön egy plusz %energia nívó%, ami a %vegyérték% sáv %tetejéhez% van közel.
+Vizsgálataink során a Bohr atom-modellből indulunk ki: az elektronok %diszkrét% energia szinteken, ún. héjakon helyezkednek el, és az %alacsonyabb% héjak vannak betöltve.
+Nagy térerősség esetén a sodródási sebesség (drift velocity) megközelíti a hőmozgás sodródási sebessége, így a további térerősség növelésével a sodródási áram %növekedése lelassul%.
+A töltéshordozók mozgékonyságát a(z) %szóródások% akadályozzák.
+Donor adalékolású félvezető esetén, a többségi töltéshordozó élettartama, az az átlagos idő, amit egy %elektron% a %vezetési sáv% -ban tölt.
+Az indirekt sávú félvezetők esetén a fényelnyelés okozhat %generáció% -t.
+Akceptor adalékolású félvezető esetén a többségi töltéshordozók a(z) %lyukak%.
+Adalékolt szilícium félvezetőben a töltéshordozó sűrűség közvetlen összefüggésben van a %Fermi-szint% és az %intrinsic Fermi-szint% távolságával.
+Direkt sávú félvezetők sávszerkezetén a vegyértéksáv teteje és a vezetési sáv alja %azonos impulzusú% értéknél található.
+A Fermi-Dirac statisztikában az elektronok %nem különböztethetőek% meg.
+Indirekt rekombináció nem radiatív, de mindig %hődisszipáció% -val jár.
+A Intrinsic félvezetőben a Fermi-szint a %tiltott sáv közepén% található.
+A %folytonossági% egyenleteknek központi szerepük van a félvezető eszközök elméletében.
+Többségi töltéshordozó sűrűsége %nem% függ a hőmérséklettől.
+Szilícium félvezetőben a töltéshordozók mozgékonysága növekvő hőmérséklettel %csökken%.
+A generációhoz szükséges energiát a vegyértéksáv elektronjai a %termikus%- vagy %fotongerjesztéssel% nyerik.
+A LED eszközök működése a %direkt rekombináció% jelenségén alapul.
+A kiürített térrészben történő generáció során %elektron-lyuk (töltéshordozó) párok% keletkeznek.
+Vezetési sáv elektronsűrűségét a generáció és rekombináció %egyensúly%-a határozza meg.
+A vegyérték és vezetési sáv között a %tiltott sáv% található.
+Többségi töltéshordozó sűrűség %független% a hőmérséklettől.

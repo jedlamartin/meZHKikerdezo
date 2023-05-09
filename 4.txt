@@ -1,0 +1,22 @@
+PN átmenetnél a kiürített réteg szélessége a záróirányú feszültség növelésével %nő%.
+Az adalékprofil jellege a(z) %előállítási technológia% -tól/-től függ.
+A metallurgai átmenetnél a félvezető anyag úgy viselkedik, mintha %intrinsic% lenne.
+PN átmenet esetén a beépített potenciál értéke a két oldal %adalékolásának% függvénye.
+Az elektrosztatika Gauss törvénye kapcsolatot teremt a %térerősség% és a %töltéssűrűség% között.
+A Poisson egyenlet kapcsolatot teremt a %potenciál különbség% és %térerősség eloszlás% között.
+Fém és p adalékolású félvezető kontaktálása esetén a félvezetőben %elektron többlet% lép fel, a félvezető %Fermi-szintje% megemelkedik, a fémben %pozitív potenciál% alakul ki.
+Fém és n adalékolású félvezető kontaktálása esetén a félvezetőben %elektron hiány% lép fel, a félvezető %Fermi-szintje% lesüllyed, a fémben %negatív potenciál% alakul ki.
+Az adalékprofil megmutatja az %adaléksűrűség% -ét a %mélység% függvényében.
+A P és N adalékolású félvezető darabok „összeérintésével” mindkét oldal %többségi töltéshordozói% áramolnak a túloldal felé, amíg a %Fermi- szintek% ki nem egyenlítődnek.
+PN átmenet esetén a kiürített rétegben a potenciálfüggvény %négyzetes% jellegű, szemben a síkkondenzátorral, ahol %lineáris% jellegű.
+PN átmenet esetén a térerősség eloszlás függvénye %lineáris% jellegű, szemben a síkkondenzátor struktúrával, ahol %konstans% jellegű.
+PN átmenet esetén a diffúziós árammal szemben fellépő sodródási áram kialakulásához szükséges térerősséget a %tértöltés réteg% hozza létre.
+A PN átmenet sávábrájáról leolvasható, hogy a p oldalon lévő sávok energiaszintje %megemelkedik%, a n oldalon lévő sávok energiaszintje %lesüllyed%.
+PN átmenet esetén a kiürített réteg mindig a %gyengébben% adalékolt oldalon szélesebb.
+A félvezető belsejében kialakított erős adalékolás (pl.: HALO) kialakítása csak %ion-implantáció% -val/-vel lehetséges.
+Abrupt átmenet előállítására %epitaxiális rétegnövesztés / ion-implantáció% technológiai lépés alkalmazásával van lehetőség.
+Fém-fém kontaktus esetén a kontaktpotenciált a különböző anyagú fémek eltérő %kilépési munka% -je/-ja okozza.
+Metallurgiai átmenetnél a donor és akceptor adalékkoncentráció %egyenlő%.
+Fém és félvezető anyag kontaktálásakor a félvezetőben %sávelhajlás% következik be.
+PN átmenet esetén a kiürített réteg töltéshordozói %mozgás% -ra nem képesek, a %potenciál lépcső% létrehozásában van szerepük.
+PN átmenet esetén, %nyitó irányú előfeszítés% hatására a potenciálgát %q*U% értékkel csökken, így az n oldal elektronjainak nagyobb része tud átlépni a p oldalra.
